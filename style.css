@@ -84,7 +84,7 @@ line-height: 26px;
     }
     .my-plane{
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         text-align: center;
     }
     .details h3{
